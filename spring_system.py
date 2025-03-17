@@ -137,4 +137,3 @@ def spring_system():
 if __name__ == "__main__":
     spring_system()
 
-print(__name__)
